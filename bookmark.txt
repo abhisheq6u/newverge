@@ -1,0 +1,6 @@
+Passport JWT authentication strategy
+Section 3
+Lecture 13
+12.35
+passport.js
+users.js
